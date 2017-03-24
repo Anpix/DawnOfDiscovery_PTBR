@@ -1,4 +1,4 @@
-﻿#----------------------------------------------
+#----------------------------------------------
 # Interface, valid guid range: 100000 - 199999
 #----------------------------------------------
 
@@ -23,7 +23,7 @@
 100010=Faça seus adversários se ajoelharem perante você.[CR] [CR][AUTOSIZE_ICONGUID 122045 0] Dificuldade Alta[CR] [CR]Condições de vitória:[CR]- Seja o último sobrevivente[CR]- Afunde 40 navios
 100011=Construa seu próprio império sob as circunstâncias mais difíceis![CR] [CR][AUTOSIZE_ICONGUID 122045 0] Dificuldade Alta[CR] [CR]Condições de vitória:[CR]- Seja o último sobrevivente[CR]- Alcance todas as realizações[CR]- Construa uma Catedral Imperial e a Mesquita do Sultão[CR]- Acumule 1 milhão de moedas de ouro[CR]- Assente 10,000 Diplomatas[CR]- Assente 10,000 Nobres[CR]- Complete 15 Missões para o Sultão ou para o Imperador
 100012=Silenciosamente devote-se a sua população neste pequeno mundo.[CR] [CR][AUTOSIZE_ICONGUID 122043 0] Dificuldade Fácil[CR] [CR]Condições de vitória:[CR]- Acumule 150,000 moedas de ouro[CR]- Assente 5,000 habitantes[CR]- Assente 2,000 Nobres
-100013=Jogo contínuo - Jogo Mundial 2/5
+100013=Jogo contínuo - Configurações Globais 2/5
 100014=Jogo contínuo - Diplomacia 1/5
 100015=Jogo contínuo - Condições de vitória: 5/5
 100016=Tamanho do Mapa
@@ -74,13 +74,13 @@
 100063=Armazém
 100064=Armazém cheio
 100065=Armazém repleto
-100066=Navio Capitânia
-100067=Navio Capitânia c/escolta
-100068=Navio Capitânia c/armada
+100066=Navio Capitania
+100067=Navio Capitania c/escolta
+100068=Navio Capitania c/armada
 100069=Balanço inicial
 100070=grande
 100071=Honra inicial
-100072=ítens Iniciais
+100072=Itens iniciais
 100073=Médio
 100074=Forte
 100075=Mapa revelado
@@ -905,7 +905,7 @@
 105028=Verifique com Lord Northburgh's os ítens que você precisa para estabelecer uma nova colonia; ele talvez ofereça as sementes de que você precisa para Fertilizar a ilha.
 105030=Selecione um de seus navios e use então a tecla de direita do mouse para clicar sobre os navios inimigos para atacá-los.
 105031=Ordene uma escolta selecionando um de seus navios e clicando com o botão direito do mouse sobre um navio amigável ou um de seus próprios navios.
-105032=Você pode construir armazéns de sua capitânia ou um navio de comércio se tiver o material necessário a bordo.
+105032=Você pode construir armazéns de sua capitania ou um navio de comércio se tiver o material necessário a bordo.
 105033=Para mudar o nome de um navio, para clicar sobre no menu do navio e pressionar Enter para confirmar sua entrada.
 105034=Para mudar o nome de uma cidade, para clicar sobre no menu do armazém e pressiona Enter para confirmar sua entrada.
 105035=Os jogadores do computador entram em contato quando você termina as Missões, assim você pode observar se sua reputação aumentou ou diminuiu com elas.
@@ -1624,13 +1624,13 @@
 
 104600=Cenários do Jogador
 104601=Cenários do Jogador
-104602=Select a player scenario and start the game!
-104603=Download player scenarios
-104604=Start
+104602=Selecione um cenário do jogador para jogar!
+104603=Baixar cenários do jogador
+104604=Iniciar
 104605=Disclaimer
 104606=You hereby agree with all terms of the EULA.[CR]In particular, your user generated content must not include materials infringing the rights of third parties or otherwise illegal. Ubisoft is not responsible for any uploaded or downloaded user generated content.
-104607=Adjust settings
-104608=Unable to load scenario. File (.RDU) missing.
+104607=Ajustar configurações
+104608=Não foi possível carregar cenário. Arquivo (.RDU) não encontrado.
 104609=Não foi possível carregar cenário. Arquivo (.RDU) não encontrado.
 104610=Cenários do Jogador
 104611=Cenários do Jogador
