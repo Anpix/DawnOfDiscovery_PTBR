@@ -17,15 +17,15 @@
 100004=[AUTOSIZE_ICONGUID 122045 0] General
 100005=[AUTOSIZE_ICONGUID 122045 0] Imperador
 100006=[AUTOSIZE_ICONGUID 122043 0] Eleitor
-100007=Use a economia para tornar seu pobre capital inicial uma grande quantidade de riqueza.[CR] [CR][AUTOSIZE_ICONGUID 122044 0] Dificuldade Média[CR] [CR]Condições de vitória:[CR]- Acumular 500,000 Moedas de ouro[CR]- Obter aliança com todos os outros jogadores simultaneamente[CR]- Complete 5 Missões para o Imperador
-100008=Use as grandes e férteis ilhas para construir cidades que serão a inveja de todos.[CR] [CR][AUTOSIZE_ICONGUID 122043 0] Dificuldade Fácil[CR] [CR]Condições de vitória:[CR]- Construa uma Catedral Imperial[CR]- Assente 10,000 habitantes[CR]- Assente 5,000 Nobres na vastidão do mundo
-100009=Descubra a cultura do Oriente e atue como um embaixador entre os dois povos.[CR] [CR][AUTOSIZE_ICONGUID 122044 0] Dificuldade Média[CR] [CR]Condições de vitória:[CR]- Construa a Mesquita do Sultão[CR]- Assente 5,000 Diplomatas[CR]- Complete 5 Missões para o Sultão
+100007=Use a economia para tornar seu pobre capital inicial uma grande quantidade de riqueza.[CR] [CR][AUTOSIZE_ICONGUID 122044 0] Dificuldade Média[CR] [CR]Condições de vitória:[CR]- Acumular 500k Moedas de ouro[CR]- Obter aliança com todos os outros jogadores simultaneamente[CR]- Complete 5 Missões para o Imperador
+100008=Use as grandes e férteis ilhas para construir cidades que serão a inveja de todos.[CR] [CR][AUTOSIZE_ICONGUID 122043 0] Dificuldade Fácil[CR] [CR]Condições de vitória:[CR]- Construa uma Catedral Imperial[CR]- Assente 10k habitantes[CR]- Assente 5k Nobres na vastidão do mundo
+100009=Descubra a cultura do Oriente e atue como um embaixador entre os dois povos.[CR] [CR][AUTOSIZE_ICONGUID 122044 0] Dificuldade Média[CR] [CR]Condições de vitória:[CR]- Construa a Mesquita do Sultão[CR]- Assente 5k Diplomatas[CR]- Complete 5 Missões para o Sultão
 100010=Faça seus adversários se ajoelharem perante você.[CR] [CR][AUTOSIZE_ICONGUID 122045 0] Dificuldade Alta[CR] [CR]Condições de vitória:[CR]- Seja o último sobrevivente[CR]- Afunde 40 navios
-100011=Construa seu próprio império sob as circunstâncias mais difíceis![CR] [CR][AUTOSIZE_ICONGUID 122045 0] Dificuldade Alta[CR] [CR]Condições de vitória:[CR]- Seja o último sobrevivente[CR]- Alcance todas as realizações[CR]- Construa uma Catedral Imperial e a Mesquita do Sultão[CR]- Acumule 1 milhão de moedas de ouro[CR]- Assente 10,000 Diplomatas[CR]- Assente 10,000 Nobres[CR]- Complete 15 Missões para o Sultão ou para o Imperador
-100012=Silenciosamente devote-se a sua população neste pequeno mundo.[CR] [CR][AUTOSIZE_ICONGUID 122043 0] Dificuldade Fácil[CR] [CR]Condições de vitória:[CR]- Acumule 150,000 moedas de ouro[CR]- Assente 5,000 habitantes[CR]- Assente 2,000 Nobres
-100013=Jogo contínuo - Configurações Globais 2/5
+100011=Construa seu próprio império sob as circunstâncias mais difíceis![CR] [CR][AUTOSIZE_ICONGUID 122045 0] Dificuldade Alta[CR] [CR]Condições de vitória:[CR]- Seja o último sobrevivente[CR]- Alcance todas as realizações[CR]- Construa uma Catedral Imperial e a Mesquita do Sultão[CR]- Acumule 1 milhão de moedas de ouro[CR]- Assente 10k Diplomatas[CR]- Assente 10k Nobres[CR]- Complete 15 Missões para o Sultão ou para o Imperador
+100012=Silenciosamente devote-se a sua população neste pequeno mundo.[CR] [CR][AUTOSIZE_ICONGUID 122043 0] Dificuldade Fácil[CR] [CR]Condições de vitória:[CR]- Acumule 150k moedas de ouro[CR]- Assente 5k habitantes[CR]- Assente 2k Nobres
+100013=Jogo contínuo - Mundo 2/5
 100014=Jogo contínuo - Diplomacia 1/5
-100015=Jogo contínuo - Condições de vitória: 5/5
+100015=Jogo contínuo - Condições de Vitória: 5/5
 100016=Tamanho do Mapa
 100017=Dificuldade da Ilha
 100018=Fertilidade
@@ -69,7 +69,7 @@
 100058=Tornado
 100059=Tempestade de Areia
 100060=Temporal
-100061=Jogo contínuo - Condições iniciais 4/5
+100061=Jogo contínuo - Condições Iniciais 4/5
 100062=Situação inicial
 100063=Armazém básico
 100064=Armazém repleto
@@ -127,28 +127,28 @@
 100169=100 de Honra
 100170=200 de Honra
 100171=300 de Honra
-100172=10,000 de Ouro
-100173=30,000 de Ouro
-100174=50,000 de Ouro
-100175=80,000 de Ouro
-100182=150,000 de Ouro
-100183=500,000 de Ouro
-100184=1 milhão de Ouro
+100172=10k Ouro
+100173=30k Ouro
+100174=50k Ouro
+100175=80k Ouro
+100182=150k Ouro
+100183=500k Ouro
+100184=1M Ouro
 100186=20 Navios
 100187=40 Navios
 100188=80 Navios
-100190=5,000 habitantes
-100191=10,000 habitantes
-100192=30,000 habitantes
-100194=2,000 Diplomatas
-100195=5,000 Diplomatas
-100196=10,000 Diplomatas
+100190=5k habitantes
+100191=10k habitantes
+100192=30k habitantes
+100194=2k Diplomatas
+100195=5k Diplomatas
+100196=10k Diplomatas
 100198=25 Missões
 100199=50 Missões
 100200=100 Missões
-100202=2,000 Nobres
-100203=5,000 Nobres
-100204=10,000 Nobres
+100202=2k Nobres
+100203=5k Nobres
+100204=10k Nobres
 100215=5 Missões
 100216=15 Missões
 100217=30 Missões
@@ -172,58 +172,58 @@
 
 # MS01 Startwerte -1 - -1
 
-102009=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 12,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 12 toneladas   [AUTOSIZE_ICONGUID 50008] 15 toneladas
-102010=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 6,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 10 toneladas   [AUTOSIZE_ICONGUID 50008] 12 toneladas
-102011=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 2,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 8 toneladas   [AUTOSIZE_ICONGUID 50008] 10 toneladas
+102009=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 12k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 12 toneladas   [AUTOSIZE_ICONGUID 50008] 15 toneladas
+102010=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 6k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 10 toneladas   [AUTOSIZE_ICONGUID 50008] 12 toneladas
+102011=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 2k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 8 toneladas   [AUTOSIZE_ICONGUID 50008] 10 toneladas
 
 
 # MS02 Startwerte -1 - -1
 
-102012=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 12,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 30 toneladas   [AUTOSIZE_ICONGUID 50001] 40 toneladas   [AUTOSIZE_ICONGUID 50008] 20 toneladas
-102013=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 6,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50008] 15 toneladas
-102014=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 2,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 15 toneladas   [AUTOSIZE_ICONGUID 50001] 15 toneladas   [AUTOSIZE_ICONGUID 50008] 10 toneladas
+102012=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 12k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 30 toneladas   [AUTOSIZE_ICONGUID 50001] 40 toneladas   [AUTOSIZE_ICONGUID 50008] 20 toneladas
+102013=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 6k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50008] 15 toneladas
+102014=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 2k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 15 toneladas   [AUTOSIZE_ICONGUID 50001] 15 toneladas   [AUTOSIZE_ICONGUID 50008] 10 toneladas
 
 
 # MS03 Startwerte -1 - -1
 
-102015=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 25,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 35 toneladas   [AUTOSIZE_ICONGUID 50001] 40 toneladas   [AUTOSIZE_ICONGUID 50062] 40 toneladas
-102016=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 12,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50062] 20 toneladas
-102017=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 8.000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 10 toneladas   [AUTOSIZE_ICONGUID 50001] 20 toneladas   [AUTOSIZE_ICONGUID 50062] 10 toneladas
+102015=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 25k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 35 toneladas   [AUTOSIZE_ICONGUID 50001] 40 toneladas   [AUTOSIZE_ICONGUID 50062] 40 toneladas
+102016=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 12k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50062] 20 toneladas
+102017=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 8k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 10 toneladas   [AUTOSIZE_ICONGUID 50001] 20 toneladas   [AUTOSIZE_ICONGUID 50062] 10 toneladas
 
 
 # MS04 Startwerte -1 - -1
 
-102018=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 25,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 35 toneladas   [AUTOSIZE_ICONGUID 50001] 45 toneladas   [AUTOSIZE_ICONGUID 50008] 30 toneladas
-102019=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 15,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50008] 20 toneladas
-102020=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 10,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 13 toneladas   [AUTOSIZE_ICONGUID 50001] 20 toneladas   [AUTOSIZE_ICONGUID 50008] 10 toneladas
+102018=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 25k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 35 toneladas   [AUTOSIZE_ICONGUID 50001] 45 toneladas   [AUTOSIZE_ICONGUID 50008] 30 toneladas
+102019=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 15k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50008] 20 toneladas
+102020=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 10k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 13 toneladas   [AUTOSIZE_ICONGUID 50001] 20 toneladas   [AUTOSIZE_ICONGUID 50008] 10 toneladas
 
 
 # MS05 Startwerte -1 - -1
 
-102030=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 35,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 35 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50003] 30 toneladas
-102031=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 25,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 20 toneladas   [AUTOSIZE_ICONGUID 50003] 15 toneladas
-102032=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 10,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 10 toneladas   [AUTOSIZE_ICONGUID 50001] 5 toneladas   [AUTOSIZE_ICONGUID 50003] 5 toneladas
+102030=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 35k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 35 toneladas   [AUTOSIZE_ICONGUID 50001] 30 toneladas   [AUTOSIZE_ICONGUID 50003] 30 toneladas
+102031=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 25k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 20 toneladas   [AUTOSIZE_ICONGUID 50001] 20 toneladas   [AUTOSIZE_ICONGUID 50003] 15 toneladas
+102032=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 10k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 10 toneladas   [AUTOSIZE_ICONGUID 50001] 5 toneladas   [AUTOSIZE_ICONGUID 50003] 5 toneladas
 
 
 # MS06 Startwerte -1 - -1
 
-102021=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 40,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50063] 90 toneladas
-102022=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 30,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50063] 80 toneladas
-102023=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 20,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50063] 70 toneladas
+102021=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 40k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50063] 90 toneladas
+102022=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 30k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50063] 80 toneladas
+102023=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 20k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50063] 70 toneladas
 
 
 # MS07 Startwerte -1 - -1
 
-102024=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 40,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 55 toneladas   [AUTOSIZE_ICONGUID 50001] 55 toneladas
-102025=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 30,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 40 toneladas   [AUTOSIZE_ICONGUID 50001] 40 toneladas
-102026=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 20,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 25 toneladas   [AUTOSIZE_ICONGUID 50001] 25 toneladas
+102024=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 40k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 55 toneladas   [AUTOSIZE_ICONGUID 50001] 55 toneladas
+102025=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 30k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 40 toneladas   [AUTOSIZE_ICONGUID 50001] 40 toneladas
+102026=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 20k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 25 toneladas   [AUTOSIZE_ICONGUID 50001] 25 toneladas
 
 
 # MS08 Startwerte -1 - -1
 
-102027=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 55,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 90 toneladas   [AUTOSIZE_ICONGUID 50001] 90 toneladas   [AUTOSIZE_ICONGUID 50003] 90 toneladas[CR][AUTOSIZE_ICONGUID 304514] 4 horas 30 minutos[CR][AUTOSIZE_ICONGUID 15913] Pequenos navios mercantes
-102028=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 45,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 70 toneladas   [AUTOSIZE_ICONGUID 50001] 70 toneladas   [AUTOSIZE_ICONGUID 50003] 70 toneladas[CR][AUTOSIZE_ICONGUID 304514] 3 horas
-102029=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 35,000 Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 50 toneladas   [AUTOSIZE_ICONGUID 50001] 50 toneladas   [AUTOSIZE_ICONGUID 50003] 50 toneladas[CR][AUTOSIZE_ICONGUID 304514] 2 horas
+102027=Restituição de todos os custos de construção[CR][AUTOSIZE_ICONGUID 1160] 55k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 90 toneladas   [AUTOSIZE_ICONGUID 50001] 90 toneladas   [AUTOSIZE_ICONGUID 50003] 90 toneladas[CR][AUTOSIZE_ICONGUID 304514] 4 horas 30 minutos[CR][AUTOSIZE_ICONGUID 15913] Pequenos navios mercantes
+102028=Restituição da metade dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 45k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 70 toneladas   [AUTOSIZE_ICONGUID 50001] 70 toneladas   [AUTOSIZE_ICONGUID 50003] 70 toneladas[CR][AUTOSIZE_ICONGUID 304514] 3 horas
+102029=Nenhum reembolso dos custos de construção[CR][AUTOSIZE_ICONGUID 1160] 35k Moedas de ouro[CR][AUTOSIZE_ICONGUID 50002] 50 toneladas   [AUTOSIZE_ICONGUID 50001] 50 toneladas   [AUTOSIZE_ICONGUID 50003] 50 toneladas[CR][AUTOSIZE_ICONGUID 304514] 2 horas
 
 
 # Savegame 108000 - 109999
@@ -416,11 +416,11 @@
 118184=[PA_CONDITION_VALUE 118005 1] horas jogadas
 118185=[PA_CONDITION_VALUE 118006 1] horas jogadas
 118186=[PA_CONDITION_VALUE 118007 1] horas jogadas
-118187=5,000 Pontos de Honra adquiridos
-118188=10,000 Embaixadas obtidas
-118189=20,000 Habitantes obtidos
-118190=500,000 Moedas de ouro obtidas
-118191=10,000 Nobres obtidos
+118187=5k Pontos de Honra adquiridos
+118188=10k Embaixadas obtidas
+118189=20k Habitantes obtidos
+118190=500k Moedas de ouro obtidas
+118191=10k Nobres obtidos
 118192=Status da cidade "Metrópole" obtido
 118193=999 tons de todas as especiarias em um depósito.
 118194=Você pode, com razão chamar-se [GUIDNAME 110250].
@@ -2586,8 +2586,8 @@
 183070=Hassan ben Sahid está oferecendo Cidadão e ítens de Patrícia em seu Armazém.
 183071=Hassan ben Sahid está oferecendo Cidadão, Patrício e Artigos Nobres em seu armazém.
 183072=Amplia a Frota Comercial Corsário: Navios da frota +1[CR]Orçamento +500 Moedas de ouro por Navio
-183073=Amplia a Frota Comercial Corsário: Navios da frota +2[CR]Orçamento +1,000 Moedas de ouro por Navio
-183074=Amplia a Frota Comercial Corsário: Navios da frota +3[CR]Orçamento +2,000 Moedas de ouro por Navio
+183073=Amplia a Frota Comercial Corsário: Navios da frota +2[CR]Orçamento +1k Moedas de ouro por Navio
+183074=Amplia a Frota Comercial Corsário: Navios da frota +3[CR]Orçamento +2k Moedas de ouro por Navio
 183075=Aumenta o limite máximo Militar: +10
 183076=Aumenta o limite máximo Militar: +20
 183077=Aumenta o limite máximo Militar: Limite Militar +30
