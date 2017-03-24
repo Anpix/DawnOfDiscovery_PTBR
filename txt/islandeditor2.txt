@@ -1,0 +1,210 @@
+﻿ISLAND_EDITOR_2=IslandEditor²
+
+### Menu Items
+FILE=&Datei
+NEW_ISLAND=&Neue Insel
+OPEN_ISLAND=&Insel öffnen...
+SAVE_ISLAND=Insel &speichern
+SAVE_ISLAND_AS=Insel speichern unter...
+CLOSE_ISLAND=Insel schließen
+IMPORT_HEIGHTMAP=Höhenkarte importieren...
+EXPORT_HEIGHTMAP=Höhenkarte exportieren...
+QUIT=&Beenden
+
+EDIT=&Bearbeiten
+UNDO=&Rückgängig
+REDO=&Wiederholen
+
+RENDERING=&Rendering
+TERRAIN_TILES_FINAL=&Terrain Tiles/Final\tSpace
+SHOW_OBJECTS=&Objekte anzeigen
+SHOW_WATER=&Wasser anzeigen
+SHOW_MINIMAP=&Minimap anzeigen
+SHOW_INFLUENCE=&Einflußbereiche anzeigen
+ENABLE_CLOUDS=W&olken
+ENABLE_SHADOWS=&Schatten
+ENABLE_REFLECTION=Wasser-&Reflektion
+ENABLE_REFRACTION=Wasser-&Brechung
+ENABLE_TERRAIN_NORMALMAPPING=Terrain Normalmapping
+SHOW_REFLECTION_TEXTURE=Reflektionstextur anzeigen
+SHOW_REFRACTION_TEXTURE=Brechungstextur anzeigen
+
+OPTIONS=&Optionen
+SHOW_WORLD_GRID=&Hintergrundgrid anzeigen
+SHOW_TERRAIN_GRID=Terrain&grid anzeigen
+SHOW_BUILD_BLOCKER=&Baublocker anzeigen
+SHOW_CURSOR_INFO=Cursorinfos anzeigen
+TOP_DOWN_CAMERA=Top-Down Kamera
+
+CAMERA=&Kamera
+ULTRANEAR=&Sehr nah
+NEAR=&Nah
+NORMAL=N&ormal
+FAR=&Weit
+CAMERA_ON_TERRAIN=Kamera auf Terrain fixiert
+
+TOOLS=&Tools
+SANITY_CHECK=Sanity-Check
+LIGHT_TOOL=Lichteinstellungen
+
+HELP=&Hilfe
+ABOUT=Über
+
+OK=Ok
+CANCEL=Abbruch
+ERROR=Fehler
+WARNING=Warnung
+NAME_ALREADY_EXISTS=Name existiert bereits
+
+PLAYER_0=Spieler 1
+PLAYER_1=Spieler 2
+PLAYER_2=Spieler 3
+PLAYER_3=Spieler 4
+NEUTRAL_PLAYER=Neutraler Spieler
+
+EDIT_MODE_BUILDBLOCKER=Baublocker editieren
+EDIT_MODE_PATHBLOCKER=Pfadblocker editieren
+EDIT_MODE_ISLAND_SHAPE=Inselform editieren
+EDIT_MODE_CHUNK_RESOLUTION=Chunkauflösung einstellen
+EDIT_MODE_SURF=Brandung editieren
+
+###
+# Tooltips
+###
+
+T_NEW_ISLAND=Neue Insel
+T_OPEN_ISLAND=Insel öffnen...
+T_SAVE_ISLAND=Insel speichern
+
+T_EDIT_MODE_OBJECTS=Objekte editieren
+T_EDIT_MODE_TERRAIN_HEIGHTS=Terrainhöhe editieren
+T_EDIT_MODE_TERRAIN_TEXTURES=Terraintextur editieren
+T_EDIT_MODE_BUILDBLOCKER=Baublocker editieren
+T_EDIT_MODE_PATHBLOCKER=Pfadblocker editieren
+T_EDIT_MODE_ISLAND_SHAPE=Inselform editieren
+T_EDIT_MODE_CHUNK_RESOLUTION=Chunkauflösung einstellen
+
+###
+
+ISLAND_SIZE=Inselgröße
+
+###
+
+ASSET_LIST=Assetliste
+ADD=Hinzufügen
+REMOVE=Entfernen
+CUSTOM_ASSET_PALETTE=Benutzerdefinierte Asset-Palette
+
+###
+
+TEXTURE_LIST=Texturliste
+TEXTURE_PALETTE=Benutzerdefinierte Textur-Palette
+
+###
+
+BRUSH=Pinsel
+RADIUS=Radius
+DIAMETER=Durchmesser
+FALLOFF=Kantenschärfe
+STRENGTH=Stärke
+BRUSH_LIST=Pinselliste
+
+###
+
+OBJECT_LIST=Objektliste
+SELECT=Selektieren
+DELETE=Löschen
+
+###
+
+HEIGHT_TOOL=Höhenwerkzeug
+TYPE=Typ
+HEIGHT=Höhe
+HEIGHT_TOOLS=Höhenwerkzeuge
+RAISE=Anheben / Absenken
+SET_TO=Höhe setzen
+SMOOTHEN=Glätten
+RAISE_TO=Anheben bis
+LOWER_TO=Absenken bis
+
+####
+
+ADD_TEXTURE=Textur hinzufügen
+EDIT_TEXTURE=Textur bearbeiten
+DELETE_TEXTURE=Textur löschen
+
+ADD_CATEGORY=Kategorie hinzufügen
+EDIT_CATEGORY=Kategorie bearbeiten
+DELETE_CATEGORY=Kategorie löschen
+DELETE_PALETTE_ASSET=Asset-Eintrag aus Palette entfernen
+DELETE_PALETTE_TEXTURE=Textur-Eintrag aus Palette entfernen
+
+ADD_HEIGHT_TOOL=Höhenwerkzeug hinzufügen
+EDIT_HEIGHT_TOOL=Höhenwerkzeug editieren
+DELETE_HEIGHT_TOOL=Höhenwerkzeug löschen
+
+ADD_BRUSH=Pinsel hinzufügen
+EDIT_BRUSH=Pinsel bearbeiten
+DELETE_BRUSH=Pinsel löschen
+
+CATEGORY_NAME=Name
+DELETE_NAMED_CATEGORY=Kategorie "{0}" löschen?
+
+NEW_BRUSH=Neuer Pinsel
+NEW_HEIGHT_TOOL=Neues Höhenwerkzeug
+
+GUID=GUID
+SPLATID=SplatID
+NAME=Name
+TEXTURE_FILE=Textur
+NORMALMAP_FILE=Normalmap
+MEAN_COLOR=Minimapfarbe
+
+HEADER_TEXTURE=Textur
+HEADER_TEXTURE_ALPHA=Textur-Alpha
+HEADER_NORMALMAP=Normalmap
+HEADER_NORMALMAP_ALPHA=Normalmap-Alpha
+
+###
+
+ISLAND_FILENAME_FILTER=Anno4 Inseln (*.isd)|*.isd|Alle Dateien (*.*)|*.*
+GROUND_TEXTURE_FILTER=PNG Dateien (*.png)|*.png|Alle Dateien (*.*)|*.*
+HEIGHTMAP_FILTER=BMP Dateien (*.bmp)|*.bmp|Alle Dateien (*.*)|*.*
+
+UNSAVED_CHANGES=Ungespeicherte Änderungen
+WANT_TO_SAVE_CHANGES=Wollen sie die Änderungen speichern?
+
+###
+
+LIGHT_TYPE_DIRECTION=Typ && Richtung
+LIGHT_TYPE=Lichttyp
+LIGHT_POSITION=Position
+LIGHT_DIRECTION=Richtung
+LIGHT_POINT=Punkt
+LIGHT_DIRECTIONAL=Richtung
+LIGHT_SPOT=Spot
+
+LIGHT_COLOR=Farbe
+LIGHT_DIFFUSE=Diffus
+LIGHT_AMBIENT=Ambient
+LIGHT_SPECULAR=Spekular
+
+LIGHT_PARAMETERS=Parameter
+LIGHT_RANGE=Range
+LIGHT_THETA=Theta
+LIGHT_PHI=Phi
+LIGHT_FALLOFF=Falloff
+LIGHT_ATTENUATION0=Attenuation 0
+LIGHT_ATTENUATION1=Attenuation 1
+LIGHT_ATTENUATION2=Attenuation 2
+
+LIGHT_CAMERA_PARAMETERS=Kameraparameter
+LIGHT_BOUND_TO_CAMERA=An Kamera befestigt
+LIGHT_CAMERA_ROT_OFFSET=Kameraoffset
+
+SAVE=Speichern
+RESET=Zurücksetzen
+
+###
+
+CHUNK_RESOLUTION=Auflösung:
