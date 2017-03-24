@@ -1,0 +1,186 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <!--Toolbar-->
+  <Label Key="ToolBar_Organize"
+         German="Organisieren"
+         English="Organize" />
+  
+  <Label Key="ToolBar_Update_Search"
+         German="Nach Aktualisierungen suchen"
+         English="Search for Updates" />
+  <Label Key="ToolBar_Update_Searching"
+         German="Suche nach Aktualisierungen ..."
+         English="Searching for Updates ..." />
+  <Label Key="ToolBar_Update_Found"
+         German="Programm aktualisieren"
+         English="Update the program" />
+  <Label Key="ToolBar_Update_NothingFound"
+         German="Keine Aktualisierungen gefunden."
+         English="No updates found." />
+  <Label Key="ToolBar_RDA_ApplyChanges"
+         German="Änderungen übernehmen"
+         English="Apply changes"/>
+
+  <!--PackageService-->
+  
+  <Label Key="ToolBar_PackageService_Search"
+         German="Nach Modifikationen suchen"
+         English="Search for Modifications" />
+  <Label Key="ToolBar_PackageService_Searching"
+         German="Suche nach Modifikationen ..."
+         English="Searching for Modifications ..." />
+  <Label Key="ToolBar_PackageService_Found"
+         German="{0} Modifikationen gefunden"
+         English="{0} Modifications found" />
+  <Label Key="ToolBar_PackageService_NothingFound"
+         German="Keine Modifikationen gefunden."
+         English="No modifications found." />
+  <Label Key="ToolBar_PackageService_Open"
+         German="Fenster öffnen"
+         English="Open window" />
+  
+  <!--Menu-->
+  <Label Key="Organize_AddModification"
+             German="Modifikationen hinzufügen ..."
+             English="Add modifications ..." />
+
+  <Label Key="Organize_Modification_Append"
+            German="Modifikationen übernehmen"
+            English="Append modifications" />
+  <Label Key="Organize_Modification_Undo"
+            German="Änderungen zurücksetzen"
+            English="Reverse changes" />
+  
+  <Label Key="Organize_RefreshView"
+             German="Ansicht aktualisieren"
+             English="Refresh view" />
+  <Label Key="Organize_RefreshList"
+             German="Liste neu laden"
+             English="Reload list" />
+
+  <Label Key="Organize_Sort"
+             German="Sortieren nach ..."
+             English="Sort by ..." />
+  <Label Key="Organize_Sort_Category"
+             German="Kategorie"
+             English="Category" />
+  <Label Key="Organize_Sort_Author"
+             German="Autor"
+             English="Author" />
+  <Label Key="Organize_Sort_Status"
+             German="Status"
+             English="Status" />
+  <Label Key="Organize_Sort_AnnoVersions"
+             German="Kompatible Anno-Version"
+             English="Compatible Anno version" />
+
+  <Label Key="Organize_About"
+             German="Über Anno 1404 Modification Manager"
+             English="About Anno 1404 Modification Manager" />
+  <Label Key="Organize_ShowHelp"
+             German="Hilfe"
+             English="Help" />
+  
+  <!--ModificationList-->
+  <Label Key="ModificationList_AuthorLabel"
+             German="Erstellt von "
+             English="Created by " />
+  <Label Key="ModificationList_AllVersions"
+             German="Verschiedene Versionen"
+             English="Several versions" />
+  <Label Key="ModificationList_Retail"
+             German="Anno 1404"
+             English="Anno 1404" />
+  <Label Key="ModificationList_Addon"
+             German="Anno 1404 - Venedig"
+             English="Anno 1404 - Venice" />
+  <Label Key="ModificationList_IAAM"
+            German="Anno 1404 - I.A.A.M."
+            English="Anno 1404 - I.A.A.M." />
+  <Label Key="ModificationList_Loading"
+             German="Bitte warten ..."
+             English="Please wait ..." />
+  
+  <!--DisabledPanel-->
+  <Label Key="DisabledPanel_Message"
+             German="Anno 1404 ignoriert Modifikationen.\nKlicken Sie auf den Button oben rechts, um Modifikationen wieder zu aktivieren."
+             English="Anno 1404 ignores modifications. Click on the button at the upper right corner to reactivate modifications." />
+  <Label Key="DisabledPanel_ErrorMessage"
+             German="Bitte schließen Sie dieses Programm und starten Anno 1404, um notwendige Konfigurationsdaten zu erstellen."
+             English="Please close this program and start Anno 1404 to create necessary configuration files." />
+  <Label Key="DisabledPanel_AnnoRunning"
+             German="Anno 1404 wird gerade ausgeführt.\nFalls dies nicht der Fall ist, warten Sie einige Sekunden."
+             English="Anno 1404 is running.\nIf not, please wait some seconds." />
+  
+  <!--Panel-->
+  <Label Key="AnalyzerPanel_Activate"
+             German="Aktivieren"
+             English="Activate" />
+  <Label Key="AnalyzerPanel_Deactivate"
+             German="Deaktivieren"
+             English="Deactivate" />
+  <Label Key="AnalyzerPanel_OpenDocumentation"
+             German="Dokumentation öffnen"
+             English="Open documentation" />
+  <Label Key="AnalyzerPanel_OpenDocumentation_Warning"
+             German="Die Dokumentation dieser Modifikation ist eine ausführbare Datei.\nBeachten Sie, dass es sich um Schadsoftware handeln könnte."
+             English="The documentation of this modification is an executable.\nMind that it could be malware." />
+  <Label Key="AnalyzerPanel_OpenWebsite"
+             German="Webseite öffnen"
+             English="Open website" />
+  <Label Key="AnalyzerPanel_Incompatible"
+             German="Inkompatible Modifikation\nKompatibel mit den Anno-Versionen {0}"
+             English="Incompatible modification\nCompatible with following Anno versions: {0}" />
+  
+  <!--EngineINIButton-->
+  <Label Key="EngineIniButton_Activated"
+             German="Modifikationen deaktivieren"
+             English="Deactivate modifications" />
+  <Label Key="EngineIniButton_Deactivated"
+             German="Modifikationen aktivieren"
+             English="Activate modifications" />
+  
+  <!--StartAnno-->
+  <Label Key="StartAnno_Message"
+             German="Möchten Sie die Applikation wirklich starten?"
+             English="Do you want to start the application?" />
+  
+  <!--Apply changes-->
+  <Label Key="Exit_ApplyChanges_Message"
+         German="Um die Modifikationen benutzen zu können, müssen Sie die Änderungen übernehmen.\nMöchten Sie nun die Modifikationen übernehmen?\n\nHinweis: Nicht übernommene Änderungen gehen verloren."
+         English="To use the modifications, you have to apply then first.\nDo you want to apply them now?\n\nNote: If you don't apply them, you changes will be lost."/>
+  
+  <!--Undo changes-->
+  <Label Key="Modification_Undo_Message"
+             German="Möchen Sie wirklich alle Ihre Änderungen rückgängig machen?"
+             English="Do you really want to undo all your changes?" />
+  
+  <!--RDA Start-->
+  <Label Key="RDAStart_Message"
+         German="Um den neuen Annno 1404 Modifcation Manager nutzen zu können,\nmüssen Sie zuerst eine Sicherung des maindata-Ordners erstellen.\n\nWählen Sie aus, ob die Sicherung automatisch erstellt werden soll,\noder wählen Sie einen manuell gesicherten Ordner aus.\n\n\nHinweis: Die Sicherung benötigt ca. 3GB Festplattenspeicher."
+         English="To enable the new Anno 1404 Modification Manager,\nyou have to create a backup of the maindata folder first.\n\nSelect if you want to let create the backup automatically or select a folder, already containing a backup.\n\n\nNote: The backup will be ca. 3GB."
+         />
+  <Label Key="RDAStart_Message_AnnoVersionChanged"
+         German="Die Version von Anno 1404 wurde geändert.\nUm problemlose Funktionalität zu gewährleisten, erstellen Sie bitte eine neue Sicherung oder sichern Sie den maindata-Ordner wieder manuell."
+         English="Your Anno 1404 version has been changed.\nPlease create a new backup or do a manual backup again to make smooth functionality possible."/>
+  <Label Key="RDAStart_AutoBackup"
+         German="Automatische Sicherung (3GB)"
+         English="Auto backup (3GB)"/>
+  <Label Key="RDAStart_ManualBackup"
+         German="Manuelle Sicherung"
+         English="Manual backup"/>
+
+  <Label Key="RDAStart_AutoBackupFailed"
+         German="Automatische Sicherung fehlgeschlagen!"
+         English="Auto backup failed!"/>
+  <Label Key="RDAStart_NoRDAs"
+         German="Der Ordner enthält keine *.rda-Dateien!"
+         English="There are no *.rda files in the selected folder!"/>
+  <Label Key="RDAStart_WrongFolder"
+         German="Der Ordner darf nicht der maindata-Ordner sein!"
+         English="The backup folder have not to be equal to the maindata folder!"/>
+</LanguageDictionary>

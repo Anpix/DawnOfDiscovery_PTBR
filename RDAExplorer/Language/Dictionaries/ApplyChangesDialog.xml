@@ -1,0 +1,14 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <Label Key="Title"
+             German="Modifikationen anwenden"
+             English="Apply modifications" />
+  <Label Key="Message"
+         German="Klicken Sie auf 'OK', um die Modifikationen anzuwenden.\nBitte bedenken Sie, dass dieser Vorgang mehrere Minuten lang dauern kann.\n\nHinweis: Sie können diesen Vorgang nicht abbrechen!"
+         English="Click on 'OK' to apply the modifications.\nThis process may take some minutes.\n\nNote: You cannot cancel this process!"/> 
+  
+</LanguageDictionary>

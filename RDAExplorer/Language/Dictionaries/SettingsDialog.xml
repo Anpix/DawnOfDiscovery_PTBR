@@ -1,0 +1,17 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <Label Key="Title"
+             German="Einstellungen"
+             English="Settings" />
+  <Label Key="Tab_General"
+             German="Allgemein"
+             English="General" />
+
+  <Label Key="GroupBox_DataDirectory"
+            German="Datenordner"
+            English="Data directory" />
+</LanguageDictionary>

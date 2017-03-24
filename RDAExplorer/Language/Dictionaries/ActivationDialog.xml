@@ -1,0 +1,55 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <Label Key="Title"
+             German="Modifikation aktivieren"
+             English="Activate modification" />
+
+  <Label Key="Tab_Information"
+             German="Informationen"
+             English="Information" />
+  <Label Key="Tab_UserdefinedValues"
+             German="Benutzerdefinierte Werte"
+             English="Userdefined Values" />
+  
+  <!--Information-->
+  <Label Key="Field_Files_Anno"
+             German="{0} Dateien im Anno-Verzeichnis"
+             English="{0} files in Anno directory" />
+  <Label Key="Field_Files_AppData"
+             German="{0} Dateien im AppData-Verzeichnis"
+             English="{0} files in AppData directory" />
+
+  <Label Key="Field_XmlModules"
+             German="{0} Xml-Module"
+             English="{0} Xml-Modules" />
+  <Label Key="Field_ListModules"
+             German="{0} Listen-Module"
+             English="{0} List-Modules" />  
+
+  <Label Key="Field_UValues"
+             German="{0} benutzerdefinierte Werte"
+             English="{0} userdefined values" />
+  
+  <!--Conflicts-->
+  <Label Key="Conflict_Message"
+             German="Konflikte mit anderen Modifikationen:"
+             English="Conflicts with another modifications:" />
+  <Label Key="Conflict_ConflictionCountString"
+             German="{0} Konflikte"
+             English="{0} conflicts" />
+  <Label Key="Conflict_DeactivateIncompatible"
+             German="Inkompatible Modifikationen deaktivieren"
+             English="Deactivate incompatible modifications" />
+			 
+   <!--Features-->
+   <Label Key="Feature_CreateRestorePoint"
+             German="Wiederherstellungspunkt erstellen"
+             English="Create restore point" />
+  <Label Key="Feature_CreateRestorePoint_ItemName"
+             German="Aktivieren der Modifikation '{0}' {1}"
+             English="Activating modification '{0}' {1}" />
+</LanguageDictionary>

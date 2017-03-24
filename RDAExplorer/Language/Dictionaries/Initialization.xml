@@ -1,0 +1,13 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <Label Key="AnnoFolder_NoFoundMessage"
+         German="Der Anno 1404 Order wurde nicht gefunden.\nKlicken Sie auf OK und wählen Sie die Ausführbare Datei von Anno 1404 aus."
+         English="Cannot find the folder of Anno 1404.\nClick on OK and select the executable of Anno 1404." />
+  <Label Key="AnnoVersion_DialogMessage"
+             German="Die Version von Anno 1404 konnte nicht ermittelt werden.\nWählen Sie die zutreffende Version aus."
+             English="" />
+</LanguageDictionary>

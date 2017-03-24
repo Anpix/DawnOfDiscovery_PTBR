@@ -1,0 +1,19 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <Label Key="Title"
+             German="Modifikationen herunterladen"
+             English="Download modifications" />
+  <Label Key="button_Download"
+             German="Herunterladen"
+             English="Download" />
+  <Label Key="check_IsHidden"
+             German="Verborgen"
+             English="Hidden" />
+  <Label Key="check_ShowHidden"
+             German="Verborgene Einträge anzeigen"
+             English="Show hidden items" />
+</LanguageDictionary>

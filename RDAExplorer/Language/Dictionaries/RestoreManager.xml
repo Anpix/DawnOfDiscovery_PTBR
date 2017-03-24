@@ -1,0 +1,39 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <!--Handler-->
+  <Label Key="Title"
+             German="Wiederherstellungsmanager"
+             English="Restore manager" />
+  <Label Key="Button_Restore"
+             German="Wiederherstellen"
+             English="Restore" />
+  <Label Key="RestoredMessage"
+             German="Wiederherstellung durchgeführt."
+             English="Restoring executed." />
+  <Label Key="AddMessage"
+             German="Name des neuen Wiederherstellungspunktes:"
+             English="Name of the new restor point:" />
+  <Label Key="Item_Original"
+             German="Originalen 'data'-Ordner wiederherstellen und 'addondata'-Ordner löschen"
+             English="Restore original 'data' folder and delete the 'addondata' folder" />
+  <Label Key="Item_OriginalData"
+             German="Originalen 'data'-Ordner wiederherstellen"
+             English="Restore original 'data' folder" />
+  <Label Key="Item_DeleteAddondata"
+            German="'addondata'-Verzeichnis löschen"
+            English="Delete the 'addondata' folder" />
+  <Label Key="Item_RestoreCursors"
+            German="Mauszeiger wiederherstellen"
+            English="Restore cursors" />
+  <Label Key="Item_RestoreRDAs"
+           German="RDA-Dateien aus Backup wiederherstellen"
+           English="Restore RDA files from backup folder" />
+  <Label Key="QuestionRDA"
+         German="Möchten Sie die Datendateien wirklich wiederherstellen?"
+         English="Do you really want to restore the data files?"/>
+
+</LanguageDictionary>

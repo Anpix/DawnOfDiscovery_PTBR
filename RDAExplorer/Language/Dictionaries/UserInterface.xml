@@ -1,0 +1,79 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--Anno Folder-->
+  <!--Default-->
+  <Label Key="Cancel"
+         German="Abbrechen"
+         English="Cancel" />
+  <Label Key="Yes"
+         German="Ja"
+         English="Yes" />
+  <Label Key="No"
+         German="Nein"
+         English="No" />
+  <Label Key="Default"
+         German="Standard"
+         English="Default" />
+  
+  <Label Key="Note"
+         German="Hinweis"
+         English="Note" />
+  <Label Key="Information"
+         German="Informationen"
+         English="Information" />
+  <Label Key="NotCompatible"
+        German="Nicht kompatibel"
+        English="Not compatible" />
+  <Label Key="WaitMessage"
+         German="Bitte warten ..."
+         English="Please wait ..." />
+  <Label Key="Error"
+         German="Fehler"
+         English="Error" />
+  <Label Key="Delete"
+         German="Löschen"
+         English="Delete" />
+
+  <Label Key="Activated"
+         German="Aktiviert"
+         English="Activated" />
+  <Label Key="Deactivated"
+         German="Deaktiviert"
+         English="Deactivated" />
+  <Label Key="PartiallyActivated"
+         German="Teilweise Aktiviert"
+         English="Partially Activated" />
+
+  <Label Key="Unknown"
+         German="Unbekannt"
+         English="Unknown" />
+  <Label Key="For"
+         German="für"
+         English="for" />
+  <Label Key="Venice"
+         German="Venedig"
+         English="Venice" />
+  <Label Key="Several"
+       German="Verschiedene Versionen"
+       English="Several versions" />
+
+
+  <Label Key="Help"
+        German="Hilfe"
+        English="Help" />
+
+  <!--Startup Dialog-->
+  <Label Key="Startup_GroupBox_AnnoDirectory"
+             German="Anno 1404 Verzeichnis"
+             English="Anno 1404 Directory" />
+  <Label Key="Startup_GroupBox_AnnoDirectory_Auto"
+             German="Automatisch ermitteln"
+             English="Auto" />
+  <Label Key="Startup_GroupBox_AnnoDirectory_Choose"
+             German="Auswählen"
+             English="Choose" />
+         
+</LanguageDictionary>

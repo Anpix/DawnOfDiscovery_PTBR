@@ -1,0 +1,65 @@
+﻿<SelectorFilters Type="XmlModule">
+  <Filter Name="No Filter" DestinationFile="" Selector="" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute />
+  </Filter>
+  <Filter Name="&lt;All Documents&gt;|Complete Xml-File" DestinationFile="" Selector="/*" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute />
+  </Filter>
+  <Filter Name="maindata\Data1.rda;data\config\game\assets.xml|Asset (Retail)" DestinationFile="maindata\Data1.rda;data\config\game\assets.xml" Selector="//Asset[{a1}+{a2}+{a3}]" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute>
+      <Value Name="Name" Key="{a1}" Attribute="Values/Standard/Name=&quot;{value}&quot;" />
+      <Value Name="GUID" Key="{a2}" Attribute="Values/Standard/GUID=&quot;{value}&quot;" />
+      <Value Name="Template" Key="{a3}" Attribute="Template=&quot;{value}&quot;" />
+    </SelectorAttribute>
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\game\assets.xml|AssetList" DestinationFile="maindata\Data1.rda;data\config\game\assets.xml" Selector="//Group[{a1}]/Assets" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute>
+      <Value Name="Name" Key="{a1}" Attribute="Name=&quot;{value}&quot;" />
+    </SelectorAttribute>
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\features\features.xml|Asset" DestinationFile="maindata\Data1.rda;data\config\features\features.xml" Selector="//Asset[{a1}+{a2}+{a3}]" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute>
+      <Value Name="Name" Key="{a1}" Attribute="Values/Standard/Name=&quot;{value}&quot;" />
+      <Value Name="GUID" Key="{a2}" Attribute="Values/Standard/GUID=&quot;{value}&quot;" />
+      <Value Name="Template" Key="{a3}" Attribute="Template=&quot;{value}&quot;" />
+    </SelectorAttribute>
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\game\icons.xml|Icon" DestinationFile="Data1.rda;data\config\game\icons.xml" Selector="./Icons/i[{a1}]" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute>
+      <Value Name="GUID" Key="{a1}" Attribute="GUID=&quot;{value}&quot;" />
+    </SelectorAttribute>
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\game\properties.xml|BuildingConstructionSettings" DestinationFile="maindata\Data1.rda;data\config\game\properties.xml" Selector="//BuildingConstructionSettings" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute />
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\game\properties.xml|FactionBuildingConstructionSettings" DestinationFile="maindata\Data1.rda;data\config\game\properties.xml" Selector="//FactionBuildingConstructionSettings" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute />
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\game\properties.xml|ItemTargetCategories" DestinationFile="maindata\Data1.rda;data\config\game\properties.xml" Selector="//ItemTargetCategories" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute />
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\texteditor\guids.xml|Asset" DestinationFile="maindata\Data1.rda;data\config\texteditor\guids.xml" Selector="//Asset[{a1}+{a2}]" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute>
+      <Value Name="GUID" Key="{a1}" Attribute="Values/Standard/GUID=&quot;{value}&quot;" />
+      <Value Name="LokaFlag" Key="{a2}" Attribute="Values/Standard/LokaFlag=&quot;{value}&quot;" />
+    </SelectorAttribute>
+  </Filter>
+  <Filter Name="maindata\Data1.rda/Patchx.rda;data\config\texteditor\guids.xml|Asset List" DestinationFile="maindata\Data1.rda;data\config\texteditor\guids.xml" Selector="//Group[{a1}+{a2}+{a3}]/Assets" Deselector="">
+    <KeyValueReplacement />
+    <SelectorAttribute>
+      <Value Name="Name" Key="{a1}" Attribute="Name=&quot;{value}&quot;" />
+      <Value Name="GUIDMin" Key="{a2}" Attribute="GUIDRangeMin=&quot;{value}&quot;" />
+      <Value Name="GUIDMax" Key="{a3}" Attribute="GUIDRangeMax=&quot;{value}&quot;" />
+    </SelectorAttribute>
+  </Filter>
+</SelectorFilters>

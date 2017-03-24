@@ -1,0 +1,29 @@
+﻿<LanguageDictionary>
+  <!--<Label Key=""
+             German=""
+             English="" />-->
+  
+  <!--General-->
+  <Label Key="Title"
+             German="Modifikation löschen"
+             English="Deactivate modification" />
+  <Label Key="Message"
+             German="Die Modifikation wird vor dem Löschen deaktiviert.\nFolgende Modifikationen werden dabei ihren Aktivierungsstatus ändern:"
+             English="The modification will be deactivated before deleting it.\nFollowing modifications will change their status:" />
+  <Label Key="DeleteOnlyMessage"
+             German="Die Modifikation wird gelöscht."
+             English="The modification will be deleted." />
+ 
+  <!--Features-->
+   <Label Key="Feature_CreateRestorePoint"
+             German="Wiederherstellungspunkt erstellen"
+             English="Create restore point" />
+  <Label Key="Feature_CreateRestorePoint_ItemName"
+             German="Deaktivieren der Modifikation {0} {1}"
+             English="Deactivating modification {0} {1}" />
+  
+  <!--List-->
+  <Label Key="ModifierCountString"
+             German="{0} Modifizierer werden deaktiviert"
+             English="{0} modifiers will be deactivated" />
+</LanguageDictionary>
